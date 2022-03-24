@@ -45,6 +45,8 @@ const generateReadme = (userInput) => {
 
     return `
 # project name: ${userInput.project}
+
+### [Description](#project-description) | [Installation](#installation-instructions) | [Usage](#Usage-information) | [Contribution](#contribution-guidelines) | [Test](#test-instructions) | [Questions](#Questions) | [License](#License)
 ${userInput.license}
 ## project description: 
 ${userInput.description}
