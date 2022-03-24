@@ -1,20 +1,19 @@
 
-# project name: 
-Generate Readme
-[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+# project name: Generate README
+[![License: IPL 1.0](https://img.shields.io/badge/License-IPL_1.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)
 ## project description: 
-this project generates a readme.md file based upon user input from the terminal
+this project/app will generate a readme.md based upon input from the user inside the terminal
 ## installation instructions: 
-Download the code from git hub and install node to use application
+download the files from github and install node and required node modules
 ## Usage information: 
-run the application from the terminal with node.js
+use the app with node.js in the terminal
 ## contribution guidelines: 
-any and all constribution guidelines
+any and all contribution guidelines
 ## test instructions: 
-information on how to test the applications
+how to test the application
 ## Questions: 
-questions about the app/project?
-    - link to my git hub -> [github.com/Loganparke] (github.com/Loganparke)
-    - if you have questions, send me and email at logan.c.parke@gmail.com
+question about the app?
+#### - link to my git hub -> [github.com/loganparke](https://github.com/loganparke)
+#### - if you have questions, send me and email at logan.c.parke@gmail.com
 ## License: 
-this application is covered under the Mozilla license
+this application is covered under the IBM license

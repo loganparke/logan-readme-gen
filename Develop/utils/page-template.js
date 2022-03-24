@@ -58,8 +58,8 @@ ${userInput.contribution}
 ${userInput.test}
 ## Questions: 
 ${userInput.questions}
-    - link to my git hub -> [github.com/${userInput.github}] (github.com/${userInput.github})
-    - if you have questions, send me and email at ${userInput.email}
+#### - link to my git hub -> [github.com/${userInput.github}](https://github.com/${userInput.github})
+#### - if you have questions, send me and email at ${userInput.email}
 ## License: 
 this application is covered under the ${licenseName} license
 `
